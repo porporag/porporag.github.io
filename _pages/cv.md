@@ -8,33 +8,37 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download a PDF of my CV [here](/files/cv_GiuseppePorpora.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Industrial Product and Process Engineering, University of Naples "Federico II", 2023
+* M.S. in Chemical Engineering, University of Naples "Federico II", 2019
+* B.S. in Chemical Engineering, University of Naples "Federico II", 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2021 - May 2022: R&D Associate Scientist in P&G (Bruxelles, Frankfurt)
+  * Material characterization of polymeric films
+  * Adhesion strength measurements between polymeric films
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* June 2019 – September 2019: R&D Associate Scientist in P&G (Bruxelles)
+  * Creation of test methods for solvent diffusion in polymeric films
+  * Development of an user-friendly image analysis software
+
+* June 2018 – November 2018: R&D Intern in P&G (Bruxelles)
+  * Building a mathematical model for solvent-assisted adhesion of polymeric films
+
+Digital Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++
+* Software Proficiencies: LAMMPS, Comsol, Aspen Plus, MatLab, Microsoft Office
+* Laboratory Skills: Optical Microscopy, Optical Coherence Tomography, Peel tests
+
+Language Skills
+======
+* Italian mother tongue
+* Other Languages: English, CEFR level B2; French, CEFR level B1
 
 Publications
 ======
@@ -42,6 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
