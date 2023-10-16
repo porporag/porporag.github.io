@@ -31,7 +31,7 @@ Work experience
 
 Digital Skills
 ======
-* Programming Languages: Python, C++
+* Programming Languages: Python, ImageJ Macro, C++
 * Software Proficiencies: LAMMPS, Comsol, Aspen Plus, MatLab, Microsoft Office
 * Laboratory Skills: Optical Microscopy, Optical Coherence Tomography, Peel tests
 
