@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* January 2024 - Present: R&D Engineer in Tetrapak (Modena)
+  * Driving the development of Packaging Material Solutions for different product maturity, from early development to market
+
 * November 2021 - May 2022: R&D Associate Scientist in P&G (Bruxelles, Frankfurt)
   * Material characterization of polymeric films
   * Adhesion strength measurements between polymeric films
